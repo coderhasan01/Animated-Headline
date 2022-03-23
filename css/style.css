@@ -14,7 +14,7 @@ body {
 #hero {
     height: 100vh;
   /* use comma rgba color */
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/img/bg.jpg) no-repeat center / cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/bg.jpg) no-repeat center / cover;
     text-align: center;
 }
 .container {
